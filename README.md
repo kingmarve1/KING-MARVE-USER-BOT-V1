@@ -1,8 +1,9 @@
-# 🌑 𝐊𝐈𝐍̃𝐆 𝐌𝐀̊𝐑𝐕𝐄̈ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓
+# 🌑 𝐊𝐈𝐍𝐆 𝐌𝐀𝐑𝐕𝐄 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 𝐕1
 
-👑 **Creator:** K1ÑG MÅRVË x Drenox  
+👑 **Creator:** K1ÑG MÅRVË
 🔥 **Hosted on:** Cloud (24/7 Online)  
 📞 **Contact:** [t.me/ask_of_kingmarve](https://t.me/ask_of_kingmarve)
+[t.me/askofkingmarve](https://t.me/askofkingmarve)
 
 A powerful Telegram user bot with 50+ commands, AI integration, and 24/7 cloud hosting capabilities.
 
