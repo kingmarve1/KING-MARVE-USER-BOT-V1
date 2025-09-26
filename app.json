@@ -1,7 +1,7 @@
 {
   "name": "KING MARVE USER BOT",
   "description": "A powerful Telegram user bot with AI capabilities",
-  "repository": "https://github.com/yourusername/kingmarve-bot",
+  "repository": "https://github.com/kingmarve1/KING-MARVE-USER-BOT-V1.git",
   "logo": "https://img.icons8.com/color/96/000000/telegram-app.png",
   "keywords": ["telegram", "bot", "python", "ai"],
   "env": {
