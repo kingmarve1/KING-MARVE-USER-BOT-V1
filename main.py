@@ -105,8 +105,8 @@ class KingMarveBot:
             # Start the bot
             await self.client.start(bot_token=BOT_TOKEN)
             
-            logger.info("🌑 𝐊𝐈𝐍̃𝐆 𝐌𝐀̊𝐑𝐕𝐄̈ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 Started!")
-            logger.info("👑 𝗖𝗿𝗲𝗮𝘁𝗼𝗿: K1ÑG MÅRVË x Drenox")
+            logger.info("🌑 𝐊𝐈𝐍𝐆 𝐌𝐀𝐑𝐕𝐄 𝐔𝐒𝐄𝐑-𝐁𝐎𝐓 Started!")
+            logger.info("👑 𝗖𝗿𝗲𝗮𝘁𝗼𝗿: K1ÑG MÅRVË 👿")
             logger.info("🔥 𝗛𝗼𝘀𝘁𝗲𝗱 𝗼𝗻: CLOUD (24/7)")
             logger.info("📡 𝗦𝘁𝗮𝘁𝘂𝘀: Online 24/7")
             
@@ -211,11 +211,11 @@ class KingMarveBot:
     # Authentication handlers
     async def handle_start(self, event):
         welcome_text = """
-🌑 **𝐊𝐈𝐍̃𝐆 𝐌𝐀̊𝐑𝐕𝐄̈ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓**   
+🌑 **𝐊𝐈𝐍𝐆 𝐌𝐀𝐑𝐕𝐄 𝐔𝐒𝐄𝐑-𝐁𝐎𝐓 𝐕1**   
 
-👑 **𝗖𝗿𝗲𝗮𝘁𝗼𝗿:** K1ÑG MÅRVË x Drenox  
+👑 **𝗖𝗿𝗲𝗮𝘁𝗼𝗿:** K1ÑG MÅRVË  
 🔥 **𝗛𝗼𝘀𝘁𝗲𝗱 𝗼𝗻:** CLOUD (24/7 Online)  
-📞 **𝗖𝗢𝗡𝗧𝗔𝗖𝗧:** [t.me/ask_of_kingmarve]  
+📞 **𝗖𝗢𝗡𝗧𝗔𝗖𝗧:** [t.me/ask_of_kingmarve] & [t.me/askofkingmarve] 
 
 🤖 **To get started:**
 1. Use `/connect` to connect your account
@@ -473,5 +473,5 @@ async def main():
 
 if __name__ == "__main__":
     # Cloud-optimized execution
-    print("🌑 Starting 𝐊𝐈𝐍̃𝐆 𝐌𝐀̊𝐑𝐕𝐄̈ 𝐔𝐒𝐄𝐑 𝐁𝐎𝐓 on cloud...")
+    print("🌑 Starting 𝐊𝐈𝐍𝐆 𝐌𝐀𝐑𝐕𝐄 𝐔𝐒𝐄𝐑-𝐁𝐎𝐓 on cloud...")
     asyncio.run(main())
