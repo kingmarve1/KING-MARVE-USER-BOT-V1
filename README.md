@@ -12,10 +12,10 @@ A powerful Telegram user bot with 50+ commands, AI integration, and 24/7 cloud h
 ## 🚀 Quick Deploy
 
 ### 🔷 Deploy on Heroku (Recommended - 24/7 Free)
-[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/yourusername/kingmarve-bot)
+[![Deploy to Heroku](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kingmarve1/KING-MARVE-USER-BOT-V1.git)
 
 ### 🔶 Deploy on Replit (Use Website, Not Mobile App)
-[![Run on Replit](https://replit.com/badge/github/yourusername/kingmarve-bot)](https://replit.com/github/yourusername/kingmarve-bot)
+[![Run on Replit](https://replit.com/badge/github/kingmarve1/KING-MARVE-USER-BOT-V1.git)](https://replit.com/github/kingmarve1/KING-MARVE-USER-BOT-V1.git)
 
 ### 🚂 Deploy on Railway
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/your-template-id)
